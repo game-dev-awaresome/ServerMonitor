@@ -1,0 +1,5 @@
+D:\Integration Solution\Test Code\SocketTest\obj\Debug\SocketTest.exe
+D:\Integration Solution\Test Code\SocketTest\obj\Debug\SocketTest.pdb
+D:\Integration Solution\Test Code\Output\SocketTest.exe
+D:\Integration Solution\Test Code\Output\SocketTest.pdb
+D:\Integration Solution\Test Code\SocketTest\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+bin\Debug\System.DataCenter.dll
+bin\Debug\System.DataCenter.pdb
+bin\Debug\Windows.Network.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\System.DataCenter.dll
+obj\Debug\System.DataCenter.pdb
+..\Output\System.DataCenter.dll
+..\Output\System.DataCenter.pdb
+bin\Debug\MySql.Data.dll
+bin\Debug\Oracle.DataAccess.dll

@@ -1,0 +1,24 @@
+--初始化
+
+static NotesSessionClass pNotesSession = new NotesSessionClass();
+
+pNotesSession.Initialize("12341234");
+
+－－调用开发包
+NotesUtils pNotesUtils = null;
+－－实力话
+pNotesUtils = new NotesUtils(pNotesSession, "mail9you/runstar", "mail\\xxx.nsf");
+－－打开数据库
+pNotesUtils.OpenDataBase("netadmin", "12341234")
+
+－－获取联系人
+pNotesUtils.GetLinkerInfo("Groups")
+
+－－发送信，看说明
+pNotesUtils.SendMailInfo(arrSupervisors, arrSendSecret, mReciceContent[0, 3].Content, mReciceContent[0, 7].Content.ToString())
+要发送多人时，讲所有联系人放在数组里，同时发送人的地址要全称：abc\abc\runstar@9you.com
+
+
+项目引用
+COM中Lotus Domino Objects 1.2版本,使用的机器
+必须安装Lotus 7。0

@@ -1,0 +1,7 @@
+bin\Debug\System.Define.dll
+bin\Debug\System.Define.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\System.Define.dll
+obj\Debug\System.Define.pdb
+..\Output\System.Define.dll
+..\Output\System.Define.pdb

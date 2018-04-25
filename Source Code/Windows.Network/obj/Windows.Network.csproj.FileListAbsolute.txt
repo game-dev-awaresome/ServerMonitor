@@ -1,0 +1,5 @@
+D:\Integration Solution\Source Code\Windows.Network\bin\Debug\Windows.Network.dll
+D:\Integration Solution\Source Code\Windows.Network\bin\Debug\Windows.Network.pdb
+D:\Integration Solution\Source Code\Windows.Network\obj\Debug\ResolveAssemblyReference.cache
+D:\Integration Solution\Source Code\Windows.Network\obj\Debug\Windows.Network.dll
+D:\Integration Solution\Source Code\Windows.Network\obj\Debug\Windows.Network.pdb

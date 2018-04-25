@@ -1,0 +1,5 @@
+D:\Integration Solution\Source Code\System.PlugIns\bin\Debug\System.PlugIns.dll
+D:\Integration Solution\Source Code\System.PlugIns\bin\Debug\System.PlugIns.pdb
+D:\Integration Solution\Source Code\System.PlugIns\obj\Debug\ResolveAssemblyReference.cache
+D:\Integration Solution\Source Code\System.PlugIns\obj\Debug\System.PlugIns.dll
+D:\Integration Solution\Source Code\System.PlugIns\obj\Debug\System.PlugIns.pdb

@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[Windows.Service.csproj]
+SCC_Aux_Path = "\\192.168.0.124\Object"
+SCC_Project_Name = "$/游戏服务器信息安全系统/V3/Server/Integration Solution.root/Integration Solution/Source Code/Windows.Service", DSSCAAAA

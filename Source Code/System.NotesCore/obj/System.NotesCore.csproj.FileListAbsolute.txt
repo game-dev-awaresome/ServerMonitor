@@ -1,0 +1,9 @@
+D:\Integration Solution\Source Code\System.NotesCore\bin\Debug\System.NotesCore.dll
+D:\Integration Solution\Source Code\System.NotesCore\bin\Debug\System.NotesCore.pdb
+D:\Integration Solution\Source Code\System.NotesCore\bin\Debug\Interop.Domino.dll
+D:\Integration Solution\Source Code\System.NotesCore\bin\Debug\System.DataPacket.dll
+D:\Integration Solution\Source Code\System.NotesCore\bin\Debug\System.Define.dll
+D:\Integration Solution\Source Code\System.NotesCore\bin\Debug\System.Global.dll
+D:\Integration Solution\Source Code\System.NotesCore\obj\Debug\ResolveAssemblyReference.cache
+D:\Integration Solution\Source Code\System.NotesCore\obj\Debug\System.NotesCore.dll
+D:\Integration Solution\Source Code\System.NotesCore\obj\Debug\System.NotesCore.pdb

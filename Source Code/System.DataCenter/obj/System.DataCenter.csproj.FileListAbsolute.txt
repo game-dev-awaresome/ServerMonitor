@@ -1,0 +1,8 @@
+D:\Integration Solution\Source Code\System.DataCenter\bin\Debug\System.DataCenter.dll
+D:\Integration Solution\Source Code\System.DataCenter\bin\Debug\System.DataCenter.pdb
+D:\Integration Solution\Source Code\System.DataCenter\bin\Debug\MySql.Data.dll
+D:\Integration Solution\Source Code\System.DataCenter\bin\Debug\Oracle.DataAccess.dll
+D:\Integration Solution\Source Code\System.DataCenter\bin\Debug\Windows.Network.dll
+D:\Integration Solution\Source Code\System.DataCenter\obj\Debug\ResolveAssemblyReference.cache
+D:\Integration Solution\Source Code\System.DataCenter\obj\Debug\System.DataCenter.dll
+D:\Integration Solution\Source Code\System.DataCenter\obj\Debug\System.DataCenter.pdb

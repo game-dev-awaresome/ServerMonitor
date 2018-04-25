@@ -1,0 +1,7 @@
+bin\Debug\Windows.Network.dll
+bin\Debug\Windows.Network.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Windows.Network.dll
+obj\Debug\Windows.Network.pdb
+..\Output\Windows.Network.dll
+..\Output\Windows.Network.pdb

@@ -1,0 +1,5 @@
+D:\Integration Solution\Test Code\Output\PacketTest.exe
+D:\Integration Solution\Test Code\Output\PacketTest.pdb
+D:\Integration Solution\Test Code\PacketTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Integration Solution\Test Code\PacketTest\obj\Debug\PacketTest.exe
+D:\Integration Solution\Test Code\PacketTest\obj\Debug\PacketTest.pdb

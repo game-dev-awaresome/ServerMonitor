@@ -1,0 +1,7 @@
+bin\Debug\Windows.Service.dll
+bin\Debug\Windows.Service.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Windows.Service.dll
+obj\Debug\Windows.Service.pdb
+..\Output\Windows.Service.dll
+..\Output\Windows.Service.pdb

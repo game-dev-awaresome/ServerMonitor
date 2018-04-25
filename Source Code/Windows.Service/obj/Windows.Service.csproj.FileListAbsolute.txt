@@ -1,0 +1,5 @@
+D:\Integration Solution\Source Code\Windows.Service\bin\Debug\Windows.Service.dll
+D:\Integration Solution\Source Code\Windows.Service\bin\Debug\Windows.Service.pdb
+D:\Integration Solution\Source Code\Windows.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\Integration Solution\Source Code\Windows.Service\obj\Debug\Windows.Service.dll
+D:\Integration Solution\Source Code\Windows.Service\obj\Debug\Windows.Service.pdb

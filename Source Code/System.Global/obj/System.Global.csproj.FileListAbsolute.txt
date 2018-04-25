@@ -1,0 +1,5 @@
+D:\Integration Solution\Source Code\System.Global\bin\Debug\System.Global.dll
+D:\Integration Solution\Source Code\System.Global\bin\Debug\System.Global.pdb
+D:\Integration Solution\Source Code\System.Global\obj\Debug\ResolveAssemblyReference.cache
+D:\Integration Solution\Source Code\System.Global\obj\Debug\System.Global.dll
+D:\Integration Solution\Source Code\System.Global\obj\Debug\System.Global.pdb

@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\SocketTest.exe
+bin\Debug\SocketTest.pdb
+bin\Debug\System.DataCenter.dll
+bin\Debug\System.DataPacket.dll
+bin\Debug\System.Define.dll
+bin\Debug\System.Global.dll
+bin\Debug\System.PlugIns.dll
+bin\Debug\Windows.Network.dll
+bin\Debug\Windows.Service.dll
+obj\Debug\SocketTest.exe
+obj\Debug\SocketTest.pdb
+..\Output\SocketTest.exe
+..\Output\SocketTest.pdb

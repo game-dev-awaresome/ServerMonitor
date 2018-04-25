@@ -1,0 +1,5 @@
+bin\Debug\SMSCore.dll
+bin\Debug\SMSCore.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SMSCore.dll
+obj\Debug\SMSCore.pdb

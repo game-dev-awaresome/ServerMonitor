@@ -1,0 +1,11 @@
+bin\Debug\PacketTest.exe
+bin\Debug\PacketTest.pdb
+bin\Debug\System.DataPacket.dll
+bin\Debug\System.Define.dll
+bin\Debug\System.Global.dll
+bin\Debug\Windows.Network.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PacketTest.exe
+obj\Debug\PacketTest.pdb
+..\Output\PacketTest.exe
+..\Output\PacketTest.pdb

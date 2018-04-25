@@ -1,0 +1,5 @@
+D:\Integration Solution\Source Code\System.DataPacket\bin\Debug\System.DataPacket.dll
+D:\Integration Solution\Source Code\System.DataPacket\bin\Debug\System.DataPacket.pdb
+D:\Integration Solution\Source Code\System.DataPacket\obj\Debug\ResolveAssemblyReference.cache
+D:\Integration Solution\Source Code\System.DataPacket\obj\Debug\System.DataPacket.dll
+D:\Integration Solution\Source Code\System.DataPacket\obj\Debug\System.DataPacket.pdb

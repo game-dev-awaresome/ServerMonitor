@@ -1,0 +1,5 @@
+D:\Integration Solution\Source Code\System.Define\bin\Debug\System.Define.dll
+D:\Integration Solution\Source Code\System.Define\bin\Debug\System.Define.pdb
+D:\Integration Solution\Source Code\System.Define\obj\Debug\ResolveAssemblyReference.cache
+D:\Integration Solution\Source Code\System.Define\obj\Debug\System.Define.dll
+D:\Integration Solution\Source Code\System.Define\obj\Debug\System.Define.pdb
